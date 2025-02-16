@@ -1,23 +1,14 @@
 import {
-  bulletPoint1,
-  bulletPoint2,
-  bulletPoint3,
+  bulletPoint1, bulletPoint2, bulletPoint3,
   icoComment,
-  icoDashboard,
-  icoFacebook,
-  icoFolders,
-  icoInstagram,
-  icoLinkedin,
-  icoProfiles,
-  icoStatistic,
-  icoTailored,
-  icoX,
+  icoDashboard, icoFacebook, icoFolders, icoInstagram, icoLinkedin, icoProfiles, icoStatistic,
+  icoTailored, icoX,
   logoAmazon,
   logoGoogle,
   logoNetflix,
   logoSlack,
-  logoZoom,
-} from "../assets";
+  logoZoom
+} from "@/public/assets";
 
 export const branding = [
   {
